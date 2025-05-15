@@ -11,7 +11,7 @@ This repository serves as a showcase of my projects and skills, demonstrating th
 In my daily work, I utilize technologies including:
 
 * **SQL:** Advanced querying, optimization, and working with various database systems.
-* **Python:** Programming, data analysis (Pandas, NumPy), visualization (Matplotlib, Seaborn), machine learning (Scikit-learn), and big data processing (Dask).
+* **Python:** Programming, data analysis (Pandas, NumPy), visualization (Matplotlib, Seaborn), machine learning (Scikit-learn), and big data processing.
 * **Power BI:** Creating interactive dashboards, reporting, and data modeling.
 * **PySpark:** Processing and analyzing large datasets in a distributed environment.
 
